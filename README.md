@@ -70,6 +70,7 @@ class faceTracking {
     this.tracker.draw(this.canvas);
   }
 }
+```
 
 ## From Vainilla Script ##
 
