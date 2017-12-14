@@ -72,7 +72,7 @@ class faceTracking {
 }
 ```
 
-## From Vainilla Script ##
+## From Vanilla Script / pure js - HTML ##
 
 Download the minified library [clmtrackr.js](https://github.com/auduno/clmtrackr/raw/dev/build/clmtrackr.js), and include it in your webpage.
 
